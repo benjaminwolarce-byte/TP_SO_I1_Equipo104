@@ -1,1 +1,4 @@
-
+BETA:
+Nombre y apellido:  Suarez Moreno Luca
+IP de la máquina: 192.168.100.84
+Hora: 11:40
