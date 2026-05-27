@@ -1,4 +1,4 @@
-BETA:
-Nombre y apellido:  Suarez Moreno Luca
-IP de la máquina: 192.168.100.84
-Hora: 11:40
+GAMMA:
+Nombre y apellido:  Ramirez Micaela
+IP de la máquina: 192.168.10www0.75
+Hora: 11:50
