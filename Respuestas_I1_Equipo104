@@ -2,6 +2,13 @@ Micaela Ramirez
 Lucas Suares Moreno
 Benjamin Wolshink
 
+a-¿ALFA ve los datos que cargaron los demás en su repositorio?
+Sí, ALFA puede visualizar los datos cargados por los demás integrantes en su repositorio, ya que al haber agregado a BETA y GAMMA como colaboradores, todos los cambios realizados por ellos quedan reflejados y visibles dentro del repositorio compartido.
+
+
+b-¿Si ALFA agrega un archivo los demás integrantes lo ven?
+Sí, si ALFA agrega un archivo al repositorio y realiza el correspondiente push, los demás integrantes podrán verlo al actualizar o sincronizar su copia local del repositorio.
+
 
 c-Sí, los demás integrantes pueden ver el archivo que agrega BETA siempre que BETA lo suba correctamente al repositorio usando git add, git commit y git push. Después, ALFA y GAMMA deben hacer git pull en sus repositorios locales para actualizar los cambios.
 
