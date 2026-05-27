@@ -13,3 +13,6 @@ Sí, si ALFA agrega un archivo al repositorio y realiza el correspondiente push,
 c-Sí, los demás integrantes pueden ver el archivo que agrega BETA siempre que BETA lo suba correctamente al repositorio usando git add, git commit y git push. Después, ALFA y GAMMA deben hacer git pull en sus repositorios locales para actualizar los cambios.
 
 d-Nos comunicamos por mensajes para organizarnos, avisar quién estaba modificando cada archivo y evitar trabajar todos al mismo tiempo sobre la misma parte. También usamos GitHub para revisar los cambios subidos al repositorio.
+
+e-¿Cuál es la mejor forma de comunicarse entre ustedes dentro de github?
+La mejor forma para poder comunicarnos entre si, es a través de discord para que todos podamos mostrar nuestras pantallas ya ayudarnos si alguno llega a tener un error o problema.
